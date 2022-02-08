@@ -1,0 +1,5 @@
+Variables: es una forma de poder guardar información para tenerla disponible o poder recuperarla en el momento en que la necesitemos.
+Strings: es uno de los tipos de datos que podemos escribir dentro de las variables, en el caso de los Strings son los datos que están formados por una cadena de caracteres (letras, números) y siempre van entre comillas.
+Funciones (argumentos, return): Las funciones nos ayudan a agrupar códigos de programación para poder ejecutarlo después, el tipo de función que utiliza argumentos y return, se utiliza generalmente para agrupar códigos que voy a usar muchas veces.
+Declaraciones if: las utilizamos como una condicional que determina si la expresión es verdadera o falsa, le da lógica a nuestros códigos, es decir podemos ejecutar distintos códigos según distas condiciones (expresiones que se convierten en verdaderas o falsas).	
+Valores booleanos (true, false) son datos que nos ayudan a determinar si algo es verdadero o falso, en este tipo de datos solo hay 2 valores posibles true si es verdadero y false si es falso.
