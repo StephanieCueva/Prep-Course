@@ -1,0 +1,10 @@
+For; es un bucle que se usa cuando queremos tener un bloque de códigos sucesivos,evalúa expresiones una
+y otra vez hasta que nos da lo que buscamos, tiene tres partes; variable, condición de frenado y el 
+incremento de la variable. 
+
+
+&&, ||, ! ; estos son operadores lógicos, funcionan como los operadoras matmáticos pero con lógica 
+boleana, bos sirven para comparar el (&&) “AND” evalúa 2 opciones y nos dará TRUE si ambas son verdaderas.
+ Si una de ellas es falsa, nos dará FLASE. (||) “OR” evalúa 2 opciones si una de ellas o ambas es 
+ verdadera nos dará TRUE, si ambas son falsas nos devolverá FALSE. (!)  “NOT” es una negación, nos 
+ devolverá un valor boleano opuesto a la expresión, si es true, nos dará False.
