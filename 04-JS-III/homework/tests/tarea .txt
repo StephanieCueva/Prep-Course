@@ -1,0 +1,4 @@
+Arrays: Son uno objetos, de tipo lista, los arrays sirven para almacenar datos, pero a diferencia de las variables,
+en los arrays podemos almacenar cantidades infinitas de datos, de cualquier tipo, separado por comas y ubicado entre 
+corchetes ([] que vendrían a ser los contenedores). Los arrays tienen una gran cantidad de propiedades que nos ayudan
+a interactuar con los datos almacenados en la lista.
