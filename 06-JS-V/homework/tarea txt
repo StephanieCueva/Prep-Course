@@ -1,0 +1,2 @@
+Prototype: El prototype es una propiedad que nos ayuda a crear una especie de plantilla con métodos, que una vez creado lo podamos usar para que objetos tengan acceso a todos los métodos que estén dentro del prototype.    
+Constructors (de Clases): Es un método especial para crear , construir e inicializar un objeto creado con una clase.
