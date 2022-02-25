@@ -1,0 +1,1 @@
+Funciones Callback: Los callbacks o devoluciones de llamada, tienen la capacidad de pasar una información como argumento a otra función. Estas funciones pueden llamarse en cualquier momento y pasar argumentos dentro de la función. Como argumento para la variable en la que se usa callbacks podemos escribir (cb). 
